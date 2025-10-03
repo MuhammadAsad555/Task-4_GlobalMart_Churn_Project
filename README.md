@@ -39,12 +39,6 @@ GlobalMart_Churn_Project/
 
 ##  Setup Instructions
 
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/yourusername/GlobalMart_Churn_Project.git
-   cd GlobalMart_Churn_Project
-   ```
 
 2. Create a virtual environment:
 
@@ -98,16 +92,8 @@ The dataset used is the **Telco Customer Churn Dataset** (available on [Kaggle](
 
 ---
 
-##  Future Improvements
-
-* Add hyperparameter tuning with GridSearchCV.
-* Save best model with joblib/pickle and load into Streamlit app.
-* Deploy app to **Streamlit Cloud / Heroku / Docker**.
-
----
 
 ## Author
 
 Muhammad Asad
-BS Artificial Intelligence – University of Agriculture Peshawar
 Email: [muhammadasad9941@gmail.com](mailto:muhammadasad9941@gmail.com)
